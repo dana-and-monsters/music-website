@@ -1,5 +1,5 @@
 ---
-leson-example: https://carpentries.github.io/lesson-example/"
+lesson-example: https://carpentries.github.io/lesson-example/"
 ---
 
 Remember the blank line after the 2nd 3 minus symbols at the top of the page here
