@@ -1,10 +1,16 @@
-# Homepage
+# {{site.title}}
+This code ^ is for referrring to the YAML file (\_config.yml)
+site. and anything is a global variable
+
 ## This should become the new homepage
 testing testing
 
 ## Description
-This website will eventually house Dana Swarbrick's content including music, academic work, and graphic design. IF you are lucky there may be a blog and media related to rock climbing.
+{{site.description}}
 
 ## Testing linking within the website
-To ink in the repository you just need to do this: 
+To link in the repository you just need to do this: 
 Check out my [About Me Page](about)
+
+## Contact
+If you have any questions, [please contact us](mailto:{{site.email}})
