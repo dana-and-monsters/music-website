@@ -7,4 +7,4 @@
 I make and research music. 
 
 ## Contact Us
-[Twitter]({{site.twitterURL}})
+Twitter: [@{{site.twitter}}](https://twitter.com/{{site.twitter}})
