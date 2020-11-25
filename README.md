@@ -41,4 +41,4 @@ Include a [link](google.com) and ~~strikethrough~~ text
 1. What numbers you use
 
 Bonus: Add an image
-![bonusImage](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
+![bonusImage](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
